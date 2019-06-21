@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362567952806",
+    "firebase_url": "https://himsfirebaseauthapp.firebaseio.com",
+    "project_id": "himsfirebaseauthapp",
+    "storage_bucket": "himsfirebaseauthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362567952806:android:7490031d2e26500d",
+        "android_client_info": {
+          "package_name": "com.example.himsfirebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362567952806-di05gb0p4v84bpuk3sucq0perpb167ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himsfirebaseauthapp",
+            "certificate_hash": "31023e8c1f12872bdf26064eae9cece8be6b297f"
+          }
+        },
+        {
+          "client_id": "362567952806-bsrfh0bpa28tmo1cuum3ocnq5k0dhnj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4qwNFVgvOGU3jod8NzwlDnQ63gD3xtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362567952806-bsrfh0bpa28tmo1cuum3ocnq5k0dhnj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
